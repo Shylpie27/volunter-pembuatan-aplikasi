@@ -8,3 +8,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Krisna Rizki Pratama, [My School](https://krp186zl.github.io/Tugas-Prakerja/)
